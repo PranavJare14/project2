@@ -2,4 +2,4 @@
 
 new project is added
 
-creted by Pranav Jare
+creted by Pranav Jare.
